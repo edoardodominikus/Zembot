@@ -1,5 +1,5 @@
 # Zembot
-A zombie killing C++ allegro based game for windows user.
+A zombie killing C++ allegro based game.
 
 Rest of the files :
 [Drive](https://drive.google.com/drive/folders/1m_8mbBoKkHk54KjFrrB35JO3HbDl0_FE?usp=sharing)
