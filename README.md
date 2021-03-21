@@ -2,7 +2,7 @@
 A zombie killing C++ allegro based game for windows user.
 
 Rest of the files :
-https://drive.google.com/drive/folders/1m_8mbBoKkHk54KjFrrB35JO3HbDl0_FE?usp=sharing
+[Drive](https://drive.google.com/drive/folders/1m_8mbBoKkHk54KjFrrB35JO3HbDl0_FE?usp=sharing)
 
 # Game Snapshots
 
