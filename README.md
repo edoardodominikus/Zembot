@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1m_8mbBoKkHk54KjFrrB35JO3HbDl0_FE?usp=sha
 
 
 
-<img src="images/title.png" width ="300"> 
+<img src="images/title.PNG" width ="300"> 
 <img src="images/settings.png" width ="300"> 
 <img src="images/stage_1.png" width ="300"> 
 <img src="images/shop.png" width ="300"> 
